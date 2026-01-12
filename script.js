@@ -87,7 +87,7 @@ window.addEventListener('scroll', fadeInOnScroll);
 window.addEventListener('load', fadeInOnScroll);
 
 
-const roles = ["Frontend Developer", "UI/UX Designer", "Data Scientist"];
+const roles = ["Data Scientist","Frontend Developer", "UI/UX Designer", "Machine Learning Enthusiast"];
 let part = "";
 let i = 0;
 let j = 0;
